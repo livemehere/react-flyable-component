@@ -1,6 +1,6 @@
 # React FlyAble
 
-<a href="https://www.npmjs.com/package/react-flyable"><img src="https://img.shields.io/npm/v/simple-icons.svg?logo=npm" alt="NPM version"/></a>
+[![Version](https://img.shields.io/badge/npm-1.0.0-blue)](https://www.npmjs.com/package/react-flyable)
 
 This is a super simple React component that allows you to make any element flyable and Fixable.   
 
