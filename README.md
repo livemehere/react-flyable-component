@@ -1,4 +1,4 @@
-# React FlyAble
+# React FlyAble Component
 
 [![Version](https://img.shields.io/badge/npm-1.0.0-blue)](https://www.npmjs.com/package/react-flyable)
 
