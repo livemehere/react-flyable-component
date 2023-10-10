@@ -7,9 +7,9 @@ This is a super simple React component that allows you to make any element flyab
 ## Install
 
 ```bash
-npm install react-flyable
+npm install react-flyable-component
 
-yarn add react-flyable
+yarn add react-flyable-component
 ```
 
 ## Usage

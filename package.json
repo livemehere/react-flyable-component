@@ -1,5 +1,5 @@
 {
-  "name": "react-flyable",
+  "name": "react-flyable-component",
   "version": "1.0.0",
   "type": "module",
   "description": "This is a super simple React component that allows you to make any element flyable and Fixable.",
