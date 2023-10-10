@@ -1,6 +1,6 @@
 {
   "name": "react-flyable-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "This is a super simple React component that allows you to make any element flyable and Fixable.",
   "repository": "https://github.com/livemehere/react-flyable-component",
