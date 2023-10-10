@@ -1,6 +1,6 @@
 # React FlyAble Component
 
-[![Version](https://img.shields.io/badge/npm-1.0.0-blue)](https://www.npmjs.com/package/react-flyable-component)
+[![Version](https://img.shields.io/badge/npm-1.0.1-blue)](https://www.npmjs.com/package/react-flyable-component)
 
 This is a super simple React component that allows you to make any element flyable and Fixable.   
 
