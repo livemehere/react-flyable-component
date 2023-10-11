@@ -1637,6 +1637,14 @@ react-dom@^18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
+react-flyable-component@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-flyable-component/-/react-flyable-component-1.0.2.tgz#41c23d879301fdc5335ee21e5c25236eebd29a20"
+  integrity sha512-563fPq0Nfh7wj8wIwRS1hiYU3AjT0ktordep6iFiBmm17wjzHM/J+wZxpDfpj/MvqHkvRoNQXt8FQpr1nNAZsQ==
+  dependencies:
+    react "^18.2.0"
+    react-dom "^18.2.0"
+
 react-refresh@^0.14.0:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"

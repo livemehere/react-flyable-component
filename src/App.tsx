@@ -1,4 +1,4 @@
-import { FlyAble } from "../dist";
+import { FlyAble } from "react-flyable-component";
 import ExampleComp from "./components/ExampleComp.tsx";
 import { useState } from "react";
 

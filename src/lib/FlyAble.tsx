@@ -18,10 +18,6 @@ const FlyAble = ({ children, flyAble = true, fixed }: Props) => {
     setStartTranslate(translate);
   };
 
-  const onMouseUp = () => {
-    setIsMouseDown(false);
-  };
-
   useEffect(() => {
     const mouseMoveHandler = (e: MouseEvent) => {
       const pos = { x: e.clientX, y: e.clientY };
@@ -71,7 +67,6 @@ const FlyAble = ({ children, flyAble = true, fixed }: Props) => {
         position: fixed ? "fixed" : "relative",
       }}
       onMouseDown={onMouseDown}
-      onMouseUp={onMouseUp}
     >
       {children}
     </div>
